@@ -1,0 +1,16 @@
+{
+  "name": "api-gmsab",
+  "version": "1.0.0",
+  "description": "API for web-gmsab. Fetching images urls from ES, socketio powered.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enzo Mallard @EnzDev",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^15.2.0",
+    "express": "^4.16.4",
+    "socketio": "^1.0.0"
+  }
+}
